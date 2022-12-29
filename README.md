@@ -25,5 +25,5 @@ The exploit can be found in `/exploits/malicious-firmware-update.py` together wi
     - `Dec 23, 2022` - The BSI has asked TP-Link what the current status is. They replied that they had not yet been able to verify the vulnerability and that a final response from the company is expected in early January. Since I wanted a CVE I was advised that I could report it myself. Which is why I found out that this vulnerability was already published a few days ago:
     - `Dec 20, 2022` - [Several CVEs](https://www.opencve.io/cve?vendor=tp-link&cvss=&search=firmware+update) have shown up where the same security vulnerability was found, just on different models.
 
-- `Dec 28, 2022` - Since the vulnerability is already public knowledge, I am publishing my research as well.
+- `Dec 29, 2022` - Since the vulnerability is already public knowledge, I am publishing my research as well.
 
