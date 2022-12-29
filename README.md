@@ -1,17 +1,23 @@
 # Internet of Vulnerable Things
 
-The results of my small term paper on the topic of the *Internet of Vulnerable Things*.
-
-*Paper is coming soon :^)*
+The results of my small [term paper](Internet_of_Vulnerable_Things.pdf) on the topic of the *Internet of Vulnerable Things*.
 
 **Abstract**
 
-This paper provides a practical demonstration of how insecure the Internet of Things is by hacking a typical IoT device. Several vulnerabilities were identified in the **TP-Link router TL-WR902AC**, including one that allows an authenticated attacker to launch a root shell in probably all current TP-Link routers, bringing them under full control of the attacker. How the vulnerability was discovered and how it can be exploited is part of this paper. As a result of these findings and other examples, we conclude that due to the strong growth of the Internet of Things, the risk of hacked IoT devices will continue to increase if there is no stronger legal regulation.
+This paper provides a practical demonstration of how insecure the Internet of Things is by hacking a typical
+IoT device. Several vulnerabilities were identified in the TP-Link TL-WR902AC, including one that
+allows an authenticated attacker to launch a root shell in all current TP-Link routers, bringing them under
+the full control of the attacker. How the vulnerability was discovered and how it can be exploited is part of
+this paper. As a result of these findings and other examples, we conclude that due to the strong growth of
+the Internet of Things, the risk of hacked IoT devices will continue to increase if there is no stronger legal
+regulation.
 
 
 ## Disclosure timeline
 
 I reported the found remote code execution via flashing malicious firmware to the manufacturer here is the timeline of the reporting.
+
+> An issue in the firmware update process of TP-Link TL-WR902AC V3 0.9.1 and earlier allows authenticated attackers to execute arbitrary code or cause a Denial of Service (DoS) via uploading a crafted firmware update.
 
 The exploit can be found in `/exploits/malicious-firmware-update.py` together with the reported description.
 
