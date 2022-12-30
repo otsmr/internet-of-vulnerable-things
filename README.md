@@ -32,4 +32,5 @@ The exploit can be found in `/exploits/malicious-firmware-update.py` together wi
     - `Dec 20, 2022` - [Several CVEs](https://www.opencve.io/cve?vendor=tp-link&cvss=&search=firmware+update) have shown up where the same security vulnerability was found, just on different models.
 
 - `Dec 29, 2022` - Since the vulnerability is already public knowledge, I am publishing my research as well.
+- `Dec 30, 2022` - [CVE-2022-48194](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-48194) was assigned for the reported vulnerability by MITRE.
 
