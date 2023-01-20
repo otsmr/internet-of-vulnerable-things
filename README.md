@@ -4,13 +4,7 @@ The results of my small [term paper](Internet_of_Vulnerable_Things.pdf) on the t
 
 **Abstract**
 
-This paper provides a practical demonstration of how insecure the Internet of Things is by hacking a typical
-IoT device. Several vulnerabilities were identified in the TP-Link TL-WR902AC, including one that
-allows an authenticated attacker to launch a root shell in all current TP-Link routers, bringing them under
-the full control of the attacker. How the vulnerability was discovered and how it can be exploited is part of
-this paper. As a result of these findings and other examples, we conclude that due to the strong growth of
-the Internet of Things, the risk of hacked IoT devices will continue to increase if there is no stronger legal
-regulation.
+This paper provides a practical demonstration of how insecure the Internet of Things is by hacking a typical IoT device. Several vulnerabilities were identified in the TP-Link router TL-WR902AC, including one that allows an authenticated attacker to launch a root shell in all current TP-Link routers, bringing them under the full control of the attacker. The associated CVE-2022-48194 was rated 8.8. How the vulnerability was discovered and how it can be exploited is part of this paper. As a result of these findings and other examples, we conclude that due to the strong growth of the Internet of Things, the risk of hacked IoT devices will continue to increase if there is no stronger legal regulation.
 
 
 ## Disclosure timeline
