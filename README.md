@@ -33,4 +33,5 @@ The exploit can be found in `/exploits/malicious-firmware-update.py` together wi
 
 - `Dec 29, 2022` - Since the vulnerability is already public knowledge, I am publishing my research as well.
 - `Dec 30, 2022` - [CVE-2022-48194](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-48194) was assigned for the reported vulnerability by MITRE.
+- `Jan 9, 2023` - [The CVE](https://nvd.nist.gov/vuln/detail/CVE-2022-48194#VulnChangeHistorySection) was given a score of 8.8 and TP-Link was assigned as the manufacturer.
 
